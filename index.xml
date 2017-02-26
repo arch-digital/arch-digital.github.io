@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arch Digital LLC - Software Development</title>
+    <link>https://arch.digital/index.xml</link>
+    <description>Recent content on Arch Digital LLC - Software Development</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://arch.digital/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
